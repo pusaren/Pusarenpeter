@@ -34,7 +34,7 @@
 ## 📫 Let's Connect
 - LinkedIn: [Pusaren Peter](https://www.linkedin.com/in/your-linkedin/)
 - GitHub: [pusarenpeter](https://github.com/pusarenpeter)
-- Portfolio Website: [Your Portfolio Link](https://your-portfolio-link.com)
+- Portfolio Website:(https://your-portfolio-link.com)
 - Email: pusarenpeter@gmail.com
 
 ---
